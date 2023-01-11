@@ -1,0 +1,2 @@
+bugs:
+	ERROR: fille: Get_data Function: update_data Exetion: bag efter med 5min.

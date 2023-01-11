@@ -1,0 +1,7 @@
+ON
+ON
+https://sugarmate.io/api/v1/m8a6rk/latest.json
+4.2
+ON
+8.8
+OFF
