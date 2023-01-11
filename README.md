@@ -1,5 +1,5 @@
 # UPDATE
-<strong> do to an update to dexcom's API, this overlay no long works. </strong>
+do to an update to dexcom's API, this overlay no long works
 
 # Blood Sugar Overlay
 Its an overlay to the computer with your blood sugar level. To easy keep track of the currecent blood sugar level, even while doing other thing on the computer. With option to get notifcation on high and low levels of sugar.
