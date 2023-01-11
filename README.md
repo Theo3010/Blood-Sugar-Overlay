@@ -6,5 +6,5 @@ Its an overlay to the computer with your blood sugar level. To easy keep track o
 ![Header](https://user-images.githubusercontent.com/74210896/211873097-e92c2942-b02c-4585-bbf2-5d826e044f7c.png)
 
 # Dexcom
-It uses https://sugarmate.io/ 's API. Sugarmate only works with dexom, meaning that the overlay also requires the users to have dexcom.
+It uses https://sugarmate.io/ 's API. Sugarmate only works with dexcom, meaning that the overlay also requires the users to have dexcom.
 
